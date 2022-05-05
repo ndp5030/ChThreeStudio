@@ -1,0 +1,14 @@
+C:\Users\ndp50\source\repos\csharp_projects\ChThreeStudio\ChThreeStudio\bin\Debug\netcoreapp3.1\ChThreeStudio.exe
+C:\Users\ndp50\source\repos\csharp_projects\ChThreeStudio\ChThreeStudio\bin\Debug\netcoreapp3.1\ChThreeStudio.deps.json
+C:\Users\ndp50\source\repos\csharp_projects\ChThreeStudio\ChThreeStudio\bin\Debug\netcoreapp3.1\ChThreeStudio.runtimeconfig.json
+C:\Users\ndp50\source\repos\csharp_projects\ChThreeStudio\ChThreeStudio\bin\Debug\netcoreapp3.1\ChThreeStudio.runtimeconfig.dev.json
+C:\Users\ndp50\source\repos\csharp_projects\ChThreeStudio\ChThreeStudio\bin\Debug\netcoreapp3.1\ChThreeStudio.dll
+C:\Users\ndp50\source\repos\csharp_projects\ChThreeStudio\ChThreeStudio\bin\Debug\netcoreapp3.1\ChThreeStudio.pdb
+C:\Users\ndp50\source\repos\csharp_projects\ChThreeStudio\ChThreeStudio\obj\Debug\netcoreapp3.1\ChThreeStudio.csproj.AssemblyReference.cache
+C:\Users\ndp50\source\repos\csharp_projects\ChThreeStudio\ChThreeStudio\obj\Debug\netcoreapp3.1\ChThreeStudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ndp50\source\repos\csharp_projects\ChThreeStudio\ChThreeStudio\obj\Debug\netcoreapp3.1\ChThreeStudio.AssemblyInfoInputs.cache
+C:\Users\ndp50\source\repos\csharp_projects\ChThreeStudio\ChThreeStudio\obj\Debug\netcoreapp3.1\ChThreeStudio.AssemblyInfo.cs
+C:\Users\ndp50\source\repos\csharp_projects\ChThreeStudio\ChThreeStudio\obj\Debug\netcoreapp3.1\ChThreeStudio.csproj.CoreCompileInputs.cache
+C:\Users\ndp50\source\repos\csharp_projects\ChThreeStudio\ChThreeStudio\obj\Debug\netcoreapp3.1\ChThreeStudio.dll
+C:\Users\ndp50\source\repos\csharp_projects\ChThreeStudio\ChThreeStudio\obj\Debug\netcoreapp3.1\ChThreeStudio.pdb
+C:\Users\ndp50\source\repos\csharp_projects\ChThreeStudio\ChThreeStudio\obj\Debug\netcoreapp3.1\ChThreeStudio.genruntimeconfig.cache
